@@ -1,0 +1,1 @@
+﻿public record Car(string Name, string Brand, int Year);

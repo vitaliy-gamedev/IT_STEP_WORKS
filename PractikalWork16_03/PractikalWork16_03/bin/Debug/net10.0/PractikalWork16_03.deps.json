@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PractikalWork16_03/1.0.0": {
+        "runtime": {
+          "PractikalWork16_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PractikalWork16_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

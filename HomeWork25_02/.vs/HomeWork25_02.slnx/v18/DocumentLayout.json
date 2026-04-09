@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\HomeWork25_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|e:\\unity\\homework25_02\\homework25_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|solutionrelative:homework25_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|e:\\unity\\homework25_02\\homework25_02\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|solutionrelative:homework25_02\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|e:\\unity\\homework25_02\\homework25_02\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|solutionrelative:homework25_02\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|e:\\unity\\homework25_02\\homework25_02\\kangaroo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|solutionrelative:homework25_02\\kangaroo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|e:\\unity\\homework25_02\\homework25_02\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|solutionrelative:homework25_02\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|e:\\unity\\homework25_02\\homework25_02\\zebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|solutionrelative:homework25_02\\zebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|e:\\unity\\homework25_02\\homework25_02\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|solutionrelative:homework25_02\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|e:\\unity\\homework25_02\\homework25_02\\crocodile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651969A1-CF50-404B-BD33-C46AB3FC443A}|HomeWork25_02\\HomeWork25_02.csproj|solutionrelative:homework25_02\\crocodile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Animal.cs",
+              "RelativeDocumentMoniker": "HomeWork25_02\\Animal.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Animal.cs",
+              "RelativeToolTip": "HomeWork25_02\\Animal.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA3wA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:27:20.913Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zebra.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Zebra.cs",
+              "RelativeDocumentMoniker": "HomeWork25_02\\Zebra.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Zebra.cs",
+              "RelativeToolTip": "HomeWork25_02\\Zebra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T20:09:54.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Snake.cs",
+              "RelativeDocumentMoniker": "HomeWork25_02\\Snake.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Snake.cs",
+              "RelativeToolTip": "HomeWork25_02\\Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T20:09:27.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Tiger.cs",
+              "RelativeDocumentMoniker": "HomeWork25_02\\Tiger.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Tiger.cs",
+              "RelativeToolTip": "HomeWork25_02\\Tiger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:27:02.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Crocodile.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Crocodile.cs",
+              "RelativeDocumentMoniker": "HomeWork25_02\\Crocodile.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Crocodile.cs",
+              "RelativeToolTip": "HomeWork25_02\\Crocodile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:26:41.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kangaroo.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Kangaroo.cs",
+              "RelativeDocumentMoniker": "HomeWork25_02\\Kangaroo.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Kangaroo.cs",
+              "RelativeToolTip": "HomeWork25_02\\Kangaroo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:26:21.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zoo.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Zoo.cs",
+              "RelativeDocumentMoniker": "HomeWork25_02\\Zoo.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Zoo.cs",
+              "RelativeToolTip": "HomeWork25_02\\Zoo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:25:37.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork25_02\\Program.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_02\\HomeWork25_02\\Program.cs",
+              "RelativeToolTip": "HomeWork25_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:25:04.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

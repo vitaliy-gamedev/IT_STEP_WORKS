@@ -1,0 +1,14 @@
+E:\Unity\HomeWork18_03\HomeWork18_03\obj\Debug\net10.0\HomeWork18_03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\HomeWork18_03\HomeWork18_03\obj\Debug\net10.0\HomeWork18_03.AssemblyInfoInputs.cache
+E:\Unity\HomeWork18_03\HomeWork18_03\obj\Debug\net10.0\HomeWork18_03.AssemblyInfo.cs
+E:\Unity\HomeWork18_03\HomeWork18_03\obj\Debug\net10.0\HomeWork18_03.csproj.CoreCompileInputs.cache
+E:\Unity\HomeWork18_03\HomeWork18_03\bin\Debug\net10.0\HomeWork18_03.exe
+E:\Unity\HomeWork18_03\HomeWork18_03\bin\Debug\net10.0\HomeWork18_03.deps.json
+E:\Unity\HomeWork18_03\HomeWork18_03\bin\Debug\net10.0\HomeWork18_03.runtimeconfig.json
+E:\Unity\HomeWork18_03\HomeWork18_03\bin\Debug\net10.0\HomeWork18_03.dll
+E:\Unity\HomeWork18_03\HomeWork18_03\bin\Debug\net10.0\HomeWork18_03.pdb
+E:\Unity\HomeWork18_03\HomeWork18_03\obj\Debug\net10.0\HomeWork18_03.dll
+E:\Unity\HomeWork18_03\HomeWork18_03\obj\Debug\net10.0\refint\HomeWork18_03.dll
+E:\Unity\HomeWork18_03\HomeWork18_03\obj\Debug\net10.0\HomeWork18_03.pdb
+E:\Unity\HomeWork18_03\HomeWork18_03\obj\Debug\net10.0\HomeWork18_03.genruntimeconfig.cache
+E:\Unity\HomeWork18_03\HomeWork18_03\obj\Debug\net10.0\ref\HomeWork18_03.dll

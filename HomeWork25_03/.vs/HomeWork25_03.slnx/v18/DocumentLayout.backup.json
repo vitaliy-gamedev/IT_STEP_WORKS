@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\HomeWork25_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\services\\starwarsintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\services\\starwarsintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\services\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\services\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\services\\shipsimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\services\\shipsimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\services\\saveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\services\\saveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\services\\questservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\services\\questservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\services\\gamesavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\services\\gamesavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\services\\characterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\services\\characterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\models\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\models\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\models\\playersave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\models\\playersave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\game\\factions\\darkside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\game\\factions\\darkside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\utils\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\utils\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\game\\systems\\lorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\game\\systems\\lorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\interfaces\\ilore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\interfaces\\ilore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\interfaces\\ifaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\interfaces\\ifaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\game\\systems\\factionselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\game\\systems\\factionselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\game\\factions\\lightside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\game\\factions\\lightside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|e:\\unity\\homework25_03\\homework25_03\\homework25_03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5F36020-E3A9-461B-BA0B-ED2EC1FE771C}|HomeWork25_03\\HomeWork25_03.csproj|solutionrelative:homework25_03\\homework25_03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFaction.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Interfaces\\IFaction.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Interfaces\\IFaction.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Interfaces\\IFaction.cs",
+              "RelativeToolTip": "HomeWork25_03\\Interfaces\\IFaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:15:37.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILore.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Interfaces\\ILore.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Interfaces\\ILore.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Interfaces\\ILore.cs",
+              "RelativeToolTip": "HomeWork25_03\\Interfaces\\ILore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:15:48.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Character.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Models\\Character.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Models\\Character.cs",
+              "RelativeToolTip": "HomeWork25_03\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:14:46.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerSave.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Models\\PlayerSave.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Models\\PlayerSave.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Models\\PlayerSave.cs",
+              "RelativeToolTip": "HomeWork25_03\\Models\\PlayerSave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:15:12.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Models\\Quest.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Models\\Quest.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Models\\Quest.cs",
+              "RelativeToolTip": "HomeWork25_03\\Models\\Quest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:14:58.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharacterBuilder.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\CharacterBuilder.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Services\\CharacterBuilder.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\CharacterBuilder.cs",
+              "RelativeToolTip": "HomeWork25_03\\Services\\CharacterBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:16:17.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShipSimulation.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\ShipSimulation.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Services\\ShipSimulation.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\ShipSimulation.cs",
+              "RelativeToolTip": "HomeWork25_03\\Services\\ShipSimulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:16:42.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameSaveManager.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\GameSaveManager.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Services\\GameSaveManager.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\GameSaveManager.cs",
+              "RelativeToolTip": "HomeWork25_03\\Services\\GameSaveManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:17:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaveService.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\SaveService.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Services\\SaveService.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\SaveService.cs",
+              "RelativeToolTip": "HomeWork25_03\\Services\\SaveService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:16:59.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestService.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\QuestService.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Services\\QuestService.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\QuestService.cs",
+              "RelativeToolTip": "HomeWork25_03\\Services\\QuestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:16:28.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicService.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\MusicService.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Services\\MusicService.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\MusicService.cs",
+              "RelativeToolTip": "HomeWork25_03\\Services\\MusicService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:17:22.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Utils\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Utils\\ConsoleHelper.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Utils\\ConsoleHelper.cs",
+              "RelativeToolTip": "HomeWork25_03\\Utils\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:20:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DarkSide.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Game\\Factions\\DarkSide.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Game\\Factions\\DarkSide.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Game\\Factions\\DarkSide.cs",
+              "RelativeToolTip": "HomeWork25_03\\Game\\Factions\\DarkSide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:18:18.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StarWarsIntro.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\StarWarsIntro.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Services\\StarWarsIntro.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Services\\StarWarsIntro.cs",
+              "RelativeToolTip": "HomeWork25_03\\Services\\StarWarsIntro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:17:33.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Program.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Program.cs",
+              "RelativeToolTip": "HomeWork25_03\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwHcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:55:20.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoreQuest.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Game\\Systems\\LoreQuest.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Game\\Systems\\LoreQuest.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Game\\Systems\\LoreQuest.cs",
+              "RelativeToolTip": "HomeWork25_03\\Game\\Systems\\LoreQuest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:19:14.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FactionSelector.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Game\\Systems\\FactionSelector.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Game\\Systems\\FactionSelector.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Game\\Systems\\FactionSelector.cs",
+              "RelativeToolTip": "HomeWork25_03\\Game\\Systems\\FactionSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:19:28.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LightSide.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Game\\Factions\\LightSide.cs",
+              "RelativeDocumentMoniker": "HomeWork25_03\\Game\\Factions\\LightSide.cs",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\Game\\Factions\\LightSide.cs",
+              "RelativeToolTip": "HomeWork25_03\\Game\\Factions\\LightSide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:18:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeWork25_03",
+              "DocumentMoniker": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\HomeWork25_03.csproj",
+              "RelativeDocumentMoniker": "HomeWork25_03\\HomeWork25_03.csproj",
+              "ToolTip": "E:\\Unity\\HomeWork25_03\\HomeWork25_03\\HomeWork25_03.csproj",
+              "RelativeToolTip": "HomeWork25_03\\HomeWork25_03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T12:15:22.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

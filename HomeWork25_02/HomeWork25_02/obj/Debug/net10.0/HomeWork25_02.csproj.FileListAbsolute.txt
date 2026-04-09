@@ -1,0 +1,14 @@
+E:\Unity\HomeWork25_02\HomeWork25_02\obj\Debug\net10.0\HomeWork25_02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\HomeWork25_02\HomeWork25_02\obj\Debug\net10.0\HomeWork25_02.AssemblyInfoInputs.cache
+E:\Unity\HomeWork25_02\HomeWork25_02\obj\Debug\net10.0\HomeWork25_02.AssemblyInfo.cs
+E:\Unity\HomeWork25_02\HomeWork25_02\obj\Debug\net10.0\HomeWork25_02.csproj.CoreCompileInputs.cache
+E:\Unity\HomeWork25_02\HomeWork25_02\bin\Debug\net10.0\HomeWork25_02.exe
+E:\Unity\HomeWork25_02\HomeWork25_02\bin\Debug\net10.0\HomeWork25_02.deps.json
+E:\Unity\HomeWork25_02\HomeWork25_02\bin\Debug\net10.0\HomeWork25_02.runtimeconfig.json
+E:\Unity\HomeWork25_02\HomeWork25_02\bin\Debug\net10.0\HomeWork25_02.dll
+E:\Unity\HomeWork25_02\HomeWork25_02\bin\Debug\net10.0\HomeWork25_02.pdb
+E:\Unity\HomeWork25_02\HomeWork25_02\obj\Debug\net10.0\HomeWork25_02.dll
+E:\Unity\HomeWork25_02\HomeWork25_02\obj\Debug\net10.0\refint\HomeWork25_02.dll
+E:\Unity\HomeWork25_02\HomeWork25_02\obj\Debug\net10.0\HomeWork25_02.pdb
+E:\Unity\HomeWork25_02\HomeWork25_02\obj\Debug\net10.0\HomeWork25_02.genruntimeconfig.cache
+E:\Unity\HomeWork25_02\HomeWork25_02\obj\Debug\net10.0\ref\HomeWork25_02.dll

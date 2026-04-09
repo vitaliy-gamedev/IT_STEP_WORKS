@@ -1,0 +1,1 @@
+﻿public record Song(string Title, double Duration, string Path);

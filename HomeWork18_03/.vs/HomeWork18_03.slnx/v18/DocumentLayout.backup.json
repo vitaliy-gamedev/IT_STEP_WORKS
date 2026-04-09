@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\HomeWork18_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|e:\\unity\\homework18_03\\homework18_03\\ui\\recipeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|solutionrelative:homework18_03\\ui\\recipeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|e:\\unity\\homework18_03\\homework18_03\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|solutionrelative:homework18_03\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|e:\\unity\\homework18_03\\homework18_03\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|solutionrelative:homework18_03\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|e:\\unity\\homework18_03\\homework18_03\\reports\\recipereports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|solutionrelative:homework18_03\\reports\\recipereports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|e:\\unity\\homework18_03\\homework18_03\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|solutionrelative:homework18_03\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|e:\\unity\\homework18_03\\homework18_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|solutionrelative:homework18_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|e:\\unity\\homework18_03\\homework18_03\\tasks\\task1_replace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|solutionrelative:homework18_03\\tasks\\task1_replace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|e:\\unity\\homework18_03\\homework18_03\\tasks\\task2_moderator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|solutionrelative:homework18_03\\tasks\\task2_moderator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|e:\\unity\\homework18_03\\homework18_03\\core\\irecipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943CB768-A4FD-4CEA-805D-DE7516F09374}|HomeWork18_03\\HomeWork18_03.csproj|solutionrelative:homework18_03\\core\\irecipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeApp.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\UI\\RecipeApp.cs",
+              "RelativeDocumentMoniker": "HomeWork18_03\\UI\\RecipeApp.cs",
+              "ToolTip": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\UI\\RecipeApp.cs*",
+              "RelativeToolTip": "HomeWork18_03\\UI\\RecipeApp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:10:00.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "HomeWork18_03\\Services\\FileService.cs",
+              "ToolTip": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Services\\FileService.cs",
+              "RelativeToolTip": "HomeWork18_03\\Services\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:07:55.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Services\\RecipeService.cs",
+              "RelativeDocumentMoniker": "HomeWork18_03\\Services\\RecipeService.cs",
+              "ToolTip": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Services\\RecipeService.cs",
+              "RelativeToolTip": "HomeWork18_03\\Services\\RecipeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:09:42.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipeReports.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Reports\\RecipeReports.cs",
+              "RelativeDocumentMoniker": "HomeWork18_03\\Reports\\RecipeReports.cs",
+              "ToolTip": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Reports\\RecipeReports.cs",
+              "RelativeToolTip": "HomeWork18_03\\Reports\\RecipeReports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:09:36.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRecipeService.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Core\\IRecipeService.cs",
+              "RelativeDocumentMoniker": "HomeWork18_03\\Core\\IRecipeService.cs",
+              "ToolTip": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Core\\IRecipeService.cs",
+              "RelativeToolTip": "HomeWork18_03\\Core\\IRecipeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:08:56.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task2_Moderator.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Tasks\\Task2_Moderator.cs",
+              "RelativeDocumentMoniker": "HomeWork18_03\\Tasks\\Task2_Moderator.cs",
+              "ToolTip": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Tasks\\Task2_Moderator.cs",
+              "RelativeToolTip": "HomeWork18_03\\Tasks\\Task2_Moderator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:01:19.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task1_Replace.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Tasks\\Task1_Replace.cs",
+              "RelativeDocumentMoniker": "HomeWork18_03\\Tasks\\Task1_Replace.cs",
+              "ToolTip": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Tasks\\Task1_Replace.cs",
+              "RelativeToolTip": "HomeWork18_03\\Tasks\\Task1_Replace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:01:08.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "HomeWork18_03\\Models\\Recipe.cs",
+              "ToolTip": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Models\\Recipe.cs",
+              "RelativeToolTip": "HomeWork18_03\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:59:41.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork18_03\\Program.cs",
+              "ToolTip": "E:\\Unity\\HomeWork18_03\\HomeWork18_03\\Program.cs",
+              "RelativeToolTip": "HomeWork18_03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:55:40.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

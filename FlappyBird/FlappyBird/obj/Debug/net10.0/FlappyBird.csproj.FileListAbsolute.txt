@@ -1,0 +1,14 @@
+E:\Unity\FlappyBird\FlappyBird\bin\Debug\net10.0\FlappyBird.exe
+E:\Unity\FlappyBird\FlappyBird\bin\Debug\net10.0\FlappyBird.deps.json
+E:\Unity\FlappyBird\FlappyBird\bin\Debug\net10.0\FlappyBird.runtimeconfig.json
+E:\Unity\FlappyBird\FlappyBird\bin\Debug\net10.0\FlappyBird.dll
+E:\Unity\FlappyBird\FlappyBird\bin\Debug\net10.0\FlappyBird.pdb
+E:\Unity\FlappyBird\FlappyBird\obj\Debug\net10.0\FlappyBird.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\FlappyBird\FlappyBird\obj\Debug\net10.0\FlappyBird.AssemblyInfoInputs.cache
+E:\Unity\FlappyBird\FlappyBird\obj\Debug\net10.0\FlappyBird.AssemblyInfo.cs
+E:\Unity\FlappyBird\FlappyBird\obj\Debug\net10.0\FlappyBird.csproj.CoreCompileInputs.cache
+E:\Unity\FlappyBird\FlappyBird\obj\Debug\net10.0\FlappyBird.dll
+E:\Unity\FlappyBird\FlappyBird\obj\Debug\net10.0\refint\FlappyBird.dll
+E:\Unity\FlappyBird\FlappyBird\obj\Debug\net10.0\FlappyBird.pdb
+E:\Unity\FlappyBird\FlappyBird\obj\Debug\net10.0\FlappyBird.genruntimeconfig.cache
+E:\Unity\FlappyBird\FlappyBird\obj\Debug\net10.0\ref\FlappyBird.dll

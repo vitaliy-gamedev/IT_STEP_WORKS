@@ -1,0 +1,1 @@
+﻿public record Student(string Name, string Surname, int Age, string University);
