@@ -1,0 +1,14 @@
+E:\Unity\2048HomeWork\2048HomeWork\bin\Debug\net10.0\2048HomeWork.exe
+E:\Unity\2048HomeWork\2048HomeWork\bin\Debug\net10.0\2048HomeWork.deps.json
+E:\Unity\2048HomeWork\2048HomeWork\bin\Debug\net10.0\2048HomeWork.runtimeconfig.json
+E:\Unity\2048HomeWork\2048HomeWork\bin\Debug\net10.0\2048HomeWork.dll
+E:\Unity\2048HomeWork\2048HomeWork\bin\Debug\net10.0\2048HomeWork.pdb
+E:\Unity\2048HomeWork\2048HomeWork\obj\Debug\net10.0\2048HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\2048HomeWork\2048HomeWork\obj\Debug\net10.0\2048HomeWork.AssemblyInfoInputs.cache
+E:\Unity\2048HomeWork\2048HomeWork\obj\Debug\net10.0\2048HomeWork.AssemblyInfo.cs
+E:\Unity\2048HomeWork\2048HomeWork\obj\Debug\net10.0\2048HomeWork.csproj.CoreCompileInputs.cache
+E:\Unity\2048HomeWork\2048HomeWork\obj\Debug\net10.0\2048HomeWork.dll
+E:\Unity\2048HomeWork\2048HomeWork\obj\Debug\net10.0\refint\2048HomeWork.dll
+E:\Unity\2048HomeWork\2048HomeWork\obj\Debug\net10.0\2048HomeWork.pdb
+E:\Unity\2048HomeWork\2048HomeWork\obj\Debug\net10.0\2048HomeWork.genruntimeconfig.cache
+E:\Unity\2048HomeWork\2048HomeWork\obj\Debug\net10.0\ref\2048HomeWork.dll

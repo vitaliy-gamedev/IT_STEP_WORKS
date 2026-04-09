@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\2048HomeWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B51B04E9-B78A-AF9C-26E8-F48F3933E922}|2048HomeWork\\2048HomeWork.csproj|e:\\unity\\2048homework\\2048homework\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51B04E9-B78A-AF9C-26E8-F48F3933E922}|2048HomeWork\\2048HomeWork.csproj|solutionrelative:2048homework\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51B04E9-B78A-AF9C-26E8-F48F3933E922}|2048HomeWork\\2048HomeWork.csproj|e:\\unity\\2048homework\\2048homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51B04E9-B78A-AF9C-26E8-F48F3933E922}|2048HomeWork\\2048HomeWork.csproj|solutionrelative:2048homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51B04E9-B78A-AF9C-26E8-F48F3933E922}|2048HomeWork\\2048HomeWork.csproj|e:\\unity\\2048homework\\2048homework\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51B04E9-B78A-AF9C-26E8-F48F3933E922}|2048HomeWork\\2048HomeWork.csproj|solutionrelative:2048homework\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51B04E9-B78A-AF9C-26E8-F48F3933E922}|2048HomeWork\\2048HomeWork.csproj|e:\\unity\\2048homework\\2048homework\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51B04E9-B78A-AF9C-26E8-F48F3933E922}|2048HomeWork\\2048HomeWork.csproj|solutionrelative:2048homework\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "E:\\Unity\\2048HomeWork\\2048HomeWork\\Game.cs",
+              "RelativeDocumentMoniker": "2048HomeWork\\Game.cs",
+              "ToolTip": "E:\\Unity\\2048HomeWork\\2048HomeWork\\Game.cs",
+              "RelativeToolTip": "2048HomeWork\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T11:45:30.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "E:\\Unity\\2048HomeWork\\2048HomeWork\\Renderer.cs",
+              "RelativeDocumentMoniker": "2048HomeWork\\Renderer.cs",
+              "ToolTip": "E:\\Unity\\2048HomeWork\\2048HomeWork\\Renderer.cs",
+              "RelativeToolTip": "2048HomeWork\\Renderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T11:45:15.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "E:\\Unity\\2048HomeWork\\2048HomeWork\\Board.cs",
+              "RelativeDocumentMoniker": "2048HomeWork\\Board.cs",
+              "ToolTip": "E:\\Unity\\2048HomeWork\\2048HomeWork\\Board.cs",
+              "RelativeToolTip": "2048HomeWork\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T11:44:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Unity\\2048HomeWork\\2048HomeWork\\Program.cs",
+              "RelativeDocumentMoniker": "2048HomeWork\\Program.cs",
+              "ToolTip": "E:\\Unity\\2048HomeWork\\2048HomeWork\\Program.cs",
+              "RelativeToolTip": "2048HomeWork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T10:58:10.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
